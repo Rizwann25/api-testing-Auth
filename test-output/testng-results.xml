@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3944" started-at="2020-11-25T17:20:33 IST" finished-at="2020-11-25T17:20:37 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3944" started-at="2020-11-25T17:20:33 IST" finished-at="2020-11-25T17:20:37 IST">
+      <class name="com.atmecs.auth.testscripts.DeleteUser">
+        <test-method status="PASS" signature="deleteUser()[pri:0, instance:com.atmecs.auth.testscripts.DeleteUser@6321e813]" name="deleteUser" duration-ms="427" started-at="2020-11-25T17:20:36 IST" finished-at="2020-11-25T17:20:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- com.atmecs.auth.testscripts.DeleteUser -->
+      <class name="com.atmecs.auth.testscripts.PostCreateUser">
+        <test-method status="PASS" signature="postCreateUser()[pri:0, instance:com.atmecs.auth.testscripts.PostCreateUser@cd2dae5]" name="postCreateUser" duration-ms="2926" started-at="2020-11-25T17:20:33 IST" finished-at="2020-11-25T17:20:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCreateUser -->
+      </class> <!-- com.atmecs.auth.testscripts.PostCreateUser -->
+      <class name="com.atmecs.auth.testscripts.PutUpdateUser">
+        <test-method status="PASS" signature="updateUser()[pri:0, instance:com.atmecs.auth.testscripts.PutUpdateUser@4973813a]" name="updateUser" duration-ms="409" started-at="2020-11-25T17:20:36 IST" finished-at="2020-11-25T17:20:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+      </class> <!-- com.atmecs.auth.testscripts.PutUpdateUser -->
+      <class name="com.atmecs.auth.testscripts.GetUser">
+        <test-method status="PASS" signature="getUser()[pri:0, instance:com.atmecs.auth.testscripts.GetUser@3a883ce7]" name="getUser" duration-ms="112" started-at="2020-11-25T17:20:36 IST" finished-at="2020-11-25T17:20:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- com.atmecs.auth.testscripts.GetUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
